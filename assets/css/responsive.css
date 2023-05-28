@@ -1,0 +1,143 @@
+@media screen and (max-width: 720px) {
+    
+    .header{
+        padding: 0;
+    }
+   
+    .geeks p {
+        padding: 40px 0 0 70px;
+        font-size: 20px;
+    }
+    
+   
+    
+    .menu__btn {
+        top: 35px;
+        right: 81px;
+    }
+
+    .section-padding{
+        padding: 80px 0;
+    }
+    
+    .hero-box {
+        flex-direction: column;
+    }
+
+    .hero-text {
+        width: 80%;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .hero-text h1 {
+        font-size: 26px;
+    }
+
+    .hero-img {
+        width: 80%;
+        margin-top: 30px;
+        text-align: left;
+    }
+
+    .timeline {
+        padding: 70px 0;
+    }
+
+    #protfolio{
+        padding: 0;
+    }
+
+    .skill h1 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .entry{
+        width: 100%;
+    }
+
+    .gallery-iteam-box {
+        height: 200px;
+        margin-bottom: 10px;
+    }
+
+    #page-title {
+        height: 45vh;
+    }
+
+    .page-title h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .section-contact{
+        flex-direction: column;
+    }
+    
+    .contact-box{
+        width: 100%;
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
+
+    .form {
+        width: 85%;
+    }
+
+    .location {
+        width: 100%;
+        padding: 0 20px;
+        margin-top: 30px;
+    }
+
+    .footer__box{
+        flex-direction: column;
+        padding: 0 20px;
+    }
+
+    .footer__logo-box{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .footer__quick-links{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    .footer__social{
+        width: 100%;
+    }
+
+    .footer__quick-links h4 {
+        margin-bottom: 16px;
+    }
+    .menu__btn{
+        right: 55px;
+    }
+    .footer__social h4 {
+        margin-bottom: 15px;
+    }
+    .dropdown{
+        margin: 10px 20px;
+    }
+    .dropbtn a{
+        color: #fff;
+        text-decoration: none;
+    }
+    .dropbtn  i{
+        margin-left: 20px;
+    }
+    .dropdown-content a{
+        color: #fff;
+    }
+
+  }
+  @media screen and (max-width: 450px){
+    .geeks p {
+        padding: 40px 0 0 40px;
+        font-size: 20px;
+    }
+
+  }
